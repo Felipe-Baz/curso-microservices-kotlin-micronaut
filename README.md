@@ -1,3 +1,9 @@
+# Projeto
+
+Consiste em uma implementação de uma API Completa em Kotlin-Micronaut com integração entre 2 api's, circuit breaker, persistencia em diferentes bancos, como tambem o uso do kafka.
+
+# Backend Notes
+
 ## Arquitetura de Microserviços
 
 ![image](https://user-images.githubusercontent.com/59898958/138009488-ee7427b5-b824-41c2-adf4-084954ded4de.png)
