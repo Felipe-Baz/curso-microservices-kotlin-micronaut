@@ -2,6 +2,12 @@
 
 Consiste em uma implementação de uma API Completa em Kotlin-Micronaut com integração entre 2 api's, circuit breaker, persistencia em diferentes bancos, como tambem o uso do kafka.
 
+## Objetivo do projeto
+
+Objetivo do curso foi agregar novos conteudos sobre o kotlin e sua implementação para o Backend, como tambem perceber suas vantagens e paradigmas.
+
+Esse projeto foi salvo para posteriores estudos, como tambem servir de base para estudos em kotlin.
+
 # Backend Notes
 
 ## Arquitetura de Microserviços
